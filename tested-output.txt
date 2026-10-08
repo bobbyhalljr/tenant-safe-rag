@@ -1,0 +1,9 @@
+post-filter: returned=0, authorized top-2 recall=0/2
+pre-filter: ids=a1,a2, authorized top-2 recall=2/2
+late access check: foreign texts sent to reranker=2
+same-tenant HR document: excluded
+forged request scope: ignored, ids=a1,a2
+missing authentication: returned=0
+revoked a1: ids=a2,a3
+invalid k: rejected
+All 8 scenario checks passed.

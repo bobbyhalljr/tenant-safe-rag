@@ -1,0 +1,14 @@
+{
+  "name": "tenant-safe-rag",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Deterministic TypeScript demonstration of access filtering before top-k retrieval.",
+  "scripts": {
+    "start": "node --experimental-strip-types rag.ts",
+    "test": "node --experimental-strip-types rag.ts"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  }
+}
