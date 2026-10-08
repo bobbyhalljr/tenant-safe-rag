@@ -2,7 +2,7 @@
 
 A small, dependency-free example of applying access checks **before top-k retrieval**. It compares post-filtering, pre-filtering and a deliberately unsafe late check before a reranker.
 
-Article: publication link will be added after DEV publication.
+Article: [Your RAG Filter Runs Too Late](https://dev.to/bobbyhalljr/your-rag-filter-runs-too-late-build-a-tenant-safe-retriever-in-typescript-5elk).
 
 ## Prerequisites and exact commands
 
